@@ -41,6 +41,5 @@ python main.py
 - Improve **word similarity metrics**
 - Enhance **multi-threaded data fetching**
 
-## License
-This project is licensed under the MIT License.
+
 
