@@ -33,7 +33,7 @@ streamlit run app.py
 
 ## Data Source
 The chatbot uses the **MedQuAD dataset**. The dataset is stored in Google Drive:
-🔗 [Dataset Link](https://drive.google.com/drive/folders/1hU-0b30y6kuVeQ02koYrpAVrRDOO_w3k?usp=drive_link)
+🔗 [Dataset Link](https://drive.google.com/drive/folders/1kZrd9Ir8h8Z_iMJgwXCqyAGIvHujsgin?usp=drive_link)
 
 ## Usage
 1. Choose a **predefined question** from the dropdown or type a **custom question**.
