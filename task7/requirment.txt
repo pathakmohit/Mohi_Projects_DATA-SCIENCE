@@ -1,0 +1,27 @@
+# Backend Dependencies
+numpy
+nltk
+scikit-learn
+pickle-mixin
+fastapi
+uvicorn
+concurrent.futures
+pydantic
+python-dotenv
+
+# Data Processing
+gensim
+requests
+beautifulsoup4
+
+# Machine Learning
+pandas
+joblib
+
+# Frontend (Streamlit)
+streamlit
+langchain
+langchain_ollama
+
+# Large Language Models
+ollama

@@ -1,0 +1,9 @@
+ gensim 
+ scikit-learn 
+ numpy 
+ requests 
+ beautifulsoup4 
+ streamlit 
+ fastapi 
+ uvicorn 
+ python-dotenv pillow

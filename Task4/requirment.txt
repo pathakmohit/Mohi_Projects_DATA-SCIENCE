@@ -1,0 +1,7 @@
+streamlit
+pandas
+spacy
+scikit-learn
+joblib
+rank-bm25
+lxml  # Needed for XML parsing
