@@ -63,6 +63,5 @@ Chatbot: ¡Hola! ¿En qué puedo ayudarte?
 - Improve chatbot responses with machine learning
 - Enhance UI with more interactive elements
 
-## License
-This project is licensed under the MIT License.
+
 
