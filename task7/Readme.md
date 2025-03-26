@@ -54,6 +54,3 @@ The chatbot is trained on the **arXiv Computer Science dataset**. The dataset is
 - Improve dataset classification using deep learning
 - Add more categories from arXiv
 
-## License
-This project is licensed under the MIT License.
-
